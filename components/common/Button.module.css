@@ -1,0 +1,33 @@
+.button {
+  border: none;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+
+.small {
+  font-size: 10px;
+  padding: 5px 10px;
+}
+
+.medium {
+  font-size: 15px;
+  padding: 10px 20px;
+}
+
+.large {
+  font-size: 20px;
+  padding: 15px 30px;
+}
+
+.rounded-sm {
+  border-radius: 5px;
+}
+
+.rounded-md {
+  border-radius: 10px;
+}
+
+.rounded-full {
+  border-radius: 900px;
+}
